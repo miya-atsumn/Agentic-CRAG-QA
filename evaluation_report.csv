@@ -1,0 +1,5 @@
+﻿,Baseline RAG,CRAG (优化后),提升幅度
+faithfulness,0.95,0.96,0.01
+answer_relevancy,0.78,0.968,0.189
+context_precision,0.5,0.6,0.1
+context_recall,0.6,0.6,0.0

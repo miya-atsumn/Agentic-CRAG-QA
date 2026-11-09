@@ -1,0 +1,22 @@
+[
+  {
+    "question": "这篇论文的标题是什么？",
+    "ground_truth": "AI-agent communication network for 6G: vision, architecture, and key technologies"
+  },
+  {
+    "question": "论文的作者有哪些？",
+    "ground_truth": "Xiaodong DUAN, Zhenglei HUANG, Shiyu LIANG, Shaowen ZHENG, Lu LU, Tao SUN"
+  },
+  {
+    "question": "论文中提到的ACN的愿景是什么？",
+    "ground_truth": "ACN aims to provide secure information transmission, on-demand flexible networking, intelligent interaction sessions, and intrinsic intelligence enablement for AI agents."
+  },
+  {
+    "question": "ACN（AI-agent communication network）是什么？",
+    "ground_truth": "A novel service paradigm that interconnects and empowers diverse AI agents through secure information transmission and on-demand resource provision."
+  },
+  {
+    "question": "6G网络在赋能AI代理时面临哪些挑战？",
+    "ground_truth": "Unpredictable AI agent behaviors, irregular traffic patterns caused by AI-centric data types (like models and tokens), and the need for adaptable multi-agent coordination."
+  }
+]
